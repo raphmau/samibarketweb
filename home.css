@@ -42,3 +42,5 @@ h1{line-height:1.05}h1 em,h2 em{font-style:normal}.hero-sami{z-index:2}.hero-han
 .sky-orb{inset:-15px -40px 110px 55px}.field-patch{width:580px;height:215px;left:-4%;bottom:-35px}
 @media(max-width:1050px){.sky-orb{inset:0 -25px 100px 35px}.field-patch{width:455px;height:172px;left:-5%;bottom:-27px}}
 @media(max-width:700px){.sky-orb{inset:10px -10px 85px 25px}.field-patch{width:400px;height:136px;left:-3%;bottom:-13px}}
+
+.site-footer .legal a{text-decoration:underline;text-underline-offset:3px}
